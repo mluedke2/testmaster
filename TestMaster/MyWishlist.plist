@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Political Science 402</string>
+		<key>instructor</key>
+		<string>Underwood</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Wookienomics 102</string>
+		<key>instructor</key>
+		<string>Organa</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Small Business Mr. Management 301</string>
+		<key>instructor</key>
+		<string>Bluth</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Practice, in Practice 101</string>
+		<key>instructor</key>
+		<string>Iverson</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Martian Botany 501</string>
+		<key>instructor</key>
+		<string>Watney</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Dystopian Media Studies 402</string>
+		<key>instructor</key>
+		<string>Everdeen</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Heartbreaks 808</string>
+		<key>instructor</key>
+		<string>West</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Climate Science 302</string>
+		<key>instructor</key>
+		<string>Stark</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Interstellar Leadership 4619.2</string>
+		<key>instructor</key>
+		<string>Picard</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Nothing 101</string>
+		<key>instructor</key>
+		<string>Costanza</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Musical History 104</string>
+		<key>instructor</key>
+		<string>Hamilton</string>
+	</dict>
+</array>
+</plist>
