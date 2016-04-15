@@ -50,4 +50,18 @@ class TestMasterTests: XCTestCase {
     XCTAssertEqual(cell.titleLabel.text, course.title)
     XCTAssertEqual(cell.nameLabel.text, course.instructor)
   }
+
+  func testChangeTitle() {
+
+    let mainView = viewController.view as! MainView
+
+    let newTitle1 = "New Title 1"
+    let newTitle2 = "New Title 2"
+
+    mainView.updateTitle(newTitle1)
+    XCTAssertEqual(mainView.getTitle(), newTitle1)
+
+    mainView.updateTitle(newTitle2)
+    XCTAssertEqual(mainView.getTitle(), newTitle2)
+  }
 }
