@@ -15,7 +15,3 @@ end
 target 'TestMasterTests' do
   testing_pods
 end
-
-target 'TestMasterUITests' do
-  testing_pods
-end
