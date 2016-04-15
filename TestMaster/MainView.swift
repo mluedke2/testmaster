@@ -51,7 +51,7 @@ class MainView: UIView {
   }
   
   func updateTitle(newTitle: String) {
-    titleLabel.text = newTitle
+    titleLabel.text = newTitle + " haha this breaks everything"
   }
   
   func getTitle() -> String? {
